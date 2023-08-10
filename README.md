@@ -135,11 +135,11 @@ To run tests, run the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Phelelani Ndlovu**
+👤 **SAMUEL LEMMA**
 
-- GitHub: [@techmoves](https://github.com/techmoves)
-- Twitter: @Dopezonke_
-- LinkedIn: https://www.linkedin.com/in/phelelani-ndlovu-883916160/
+- GitHub: [samuel_lemma](https://github.com/sam2if)
+- Twitter: [samuel_lemma](https://twitter.com/samuellemma3733)
+- LinkedIn: [samuel_lemma](https://www.linkedin.com/in/samuel-lemma-7479b1214/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
