@@ -73,7 +73,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 <!-- LIVE Link -->
 ## 🚀 Live link <a name=""></a>
-## - [Live Demo Link]( )
+## - [https://react-capston-project-s9gy-aut7k2v5v-techmoves.vercel.app/]( )
 - link coming soon
 ### Prerequisites
 
