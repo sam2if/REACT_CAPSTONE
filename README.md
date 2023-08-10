@@ -86,7 +86,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 - Clone this repo here:
 
- git clone https://github.com/techmoves/react-capston-project.git
+ git clone https://github.com/sam2if/REACT_CAPSTONE
 
 
 ### Install
