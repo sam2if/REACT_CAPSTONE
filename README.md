@@ -95,7 +95,7 @@ Install this project with:
 
 - Open your command prompt or terminal and run.
 
-- git clone  [https://github.com/techmoves/react-capston-project.git]
+- git clone  [https://github.com/sam2if/REACT_CAPSTONE]
 
 - Clone the repository to your local machine using the git clone command as described in the previous answer.
 Navigate to the project folder using a command-line interface such as Terminal or Command Prompt.
