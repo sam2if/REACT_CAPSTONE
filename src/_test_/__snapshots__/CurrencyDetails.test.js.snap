@@ -83,6 +83,119 @@ Object {
           </li>
           <li>
             <span>
+              0.410442
+               
+            </span>
+             
+            <span
+              class="the-currency"
+            >
+              Bahraini dinar
+            </span>
+            <img
+              alt="right-arrow"
+              class="more-details"
+              src="arrow-4.png"
+            />
+          </li>
+          <li>
+            <span>
+              0.33616
+            </span>
+             
+            <span
+              class="the-currency"
+            >
+              Kuwaiti dinar
+            </span>
+            <img
+              alt="right-arrow"
+              class="more-details"
+              src="arrow-4.png"
+            />
+          </li>
+          <li>
+            <span>
+              4.453097
+            </span>
+             
+            <span
+              class="the-currency"
+            >
+              Polish złoty
+            </span>
+            <img
+              alt="right-arrow"
+              class="more-details"
+              src="arrow-4.png"
+            />
+          </li>
+          <li>
+            <span>
+              38.533243
+            </span>
+             
+            <span
+              class="the-currency"
+            >
+              Thai baht
+            </span>
+            <img
+              alt="right-arrow"
+              class="more-details"
+              src="arrow-4.png"
+            />
+          </li>
+          <li>
+            <span>
+              3.966997
+            </span>
+             
+            <span
+              class="the-currency"
+            >
+              Israeli new shekel
+            </span>
+            <img
+              alt="right-arrow"
+              class="more-details"
+              src="arrow-4.png"
+            />
+          </li>
+          <li>
+            <span>
+              16446.471886
+            </span>
+             
+            <span
+              class="the-currency"
+            >
+              Indonesian rupiah
+            </span>
+            <img
+              alt="right-arrow"
+              class="more-details"
+              src="arrow-4.png"
+            />
+          </li>
+          <li>
+            <span>
+              23.730877
+            </span>
+             
+            <span
+              class="the-currency"
+            >
+              Czech koruna
+            </span>
+            <img
+              alt="right-arrow"
+              class="more-details"
+              src="arrow-4.png"
+            />
+          </li>
+          <li>
+            <span>
               1
             </span>
              
@@ -410,119 +523,6 @@ Object {
               class="the-currency"
             >
               Omani rial
-            </span>
-            <img
-              alt="right-arrow"
-              class="more-details"
-              src="arrow-4.png"
-            />
-          </li>
-          <li>
-            <span>
-              0.410442
-               
-            </span>
-             
-            <span
-              class="the-currency"
-            >
-              Bahraini dinar
-            </span>
-            <img
-              alt="right-arrow"
-              class="more-details"
-              src="arrow-4.png"
-            />
-          </li>
-          <li>
-            <span>
-              0.33616
-            </span>
-             
-            <span
-              class="the-currency"
-            >
-              Kuwaiti dinar
-            </span>
-            <img
-              alt="right-arrow"
-              class="more-details"
-              src="arrow-4.png"
-            />
-          </li>
-          <li>
-            <span>
-              4.453097
-            </span>
-             
-            <span
-              class="the-currency"
-            >
-              Polish złoty
-            </span>
-            <img
-              alt="right-arrow"
-              class="more-details"
-              src="arrow-4.png"
-            />
-          </li>
-          <li>
-            <span>
-              38.533243
-            </span>
-             
-            <span
-              class="the-currency"
-            >
-              Thai baht
-            </span>
-            <img
-              alt="right-arrow"
-              class="more-details"
-              src="arrow-4.png"
-            />
-          </li>
-          <li>
-            <span>
-              3.966997
-            </span>
-             
-            <span
-              class="the-currency"
-            >
-              Israeli new shekel
-            </span>
-            <img
-              alt="right-arrow"
-              class="more-details"
-              src="arrow-4.png"
-            />
-          </li>
-          <li>
-            <span>
-              16446.471886
-            </span>
-             
-            <span
-              class="the-currency"
-            >
-              Indonesian rupiah
-            </span>
-            <img
-              alt="right-arrow"
-              class="more-details"
-              src="arrow-4.png"
-            />
-          </li>
-          <li>
-            <span>
-              23.730877
-            </span>
-             
-            <span
-              class="the-currency"
-            >
-              Czech koruna
             </span>
             <img
               alt="right-arrow"
@@ -933,6 +933,119 @@ Object {
         </li>
         <li>
           <span>
+            0.410442
+             
+          </span>
+           
+          <span
+            class="the-currency"
+          >
+            Bahraini dinar
+          </span>
+          <img
+            alt="right-arrow"
+            class="more-details"
+            src="arrow-4.png"
+          />
+        </li>
+        <li>
+          <span>
+            0.33616
+          </span>
+           
+          <span
+            class="the-currency"
+          >
+            Kuwaiti dinar
+          </span>
+          <img
+            alt="right-arrow"
+            class="more-details"
+            src="arrow-4.png"
+          />
+        </li>
+        <li>
+          <span>
+            4.453097
+          </span>
+           
+          <span
+            class="the-currency"
+          >
+            Polish złoty
+          </span>
+          <img
+            alt="right-arrow"
+            class="more-details"
+            src="arrow-4.png"
+          />
+        </li>
+        <li>
+          <span>
+            38.533243
+          </span>
+           
+          <span
+            class="the-currency"
+          >
+            Thai baht
+          </span>
+          <img
+            alt="right-arrow"
+            class="more-details"
+            src="arrow-4.png"
+          />
+        </li>
+        <li>
+          <span>
+            3.966997
+          </span>
+           
+          <span
+            class="the-currency"
+          >
+            Israeli new shekel
+          </span>
+          <img
+            alt="right-arrow"
+            class="more-details"
+            src="arrow-4.png"
+          />
+        </li>
+        <li>
+          <span>
+            16446.471886
+          </span>
+           
+          <span
+            class="the-currency"
+          >
+            Indonesian rupiah
+          </span>
+          <img
+            alt="right-arrow"
+            class="more-details"
+            src="arrow-4.png"
+          />
+        </li>
+        <li>
+          <span>
+            23.730877
+          </span>
+           
+          <span
+            class="the-currency"
+          >
+            Czech koruna
+          </span>
+          <img
+            alt="right-arrow"
+            class="more-details"
+            src="arrow-4.png"
+          />
+        </li>
+        <li>
+          <span>
             1
           </span>
            
@@ -1260,119 +1373,6 @@ Object {
             class="the-currency"
           >
             Omani rial
-          </span>
-          <img
-            alt="right-arrow"
-            class="more-details"
-            src="arrow-4.png"
-          />
-        </li>
-        <li>
-          <span>
-            0.410442
-             
-          </span>
-           
-          <span
-            class="the-currency"
-          >
-            Bahraini dinar
-          </span>
-          <img
-            alt="right-arrow"
-            class="more-details"
-            src="arrow-4.png"
-          />
-        </li>
-        <li>
-          <span>
-            0.33616
-          </span>
-           
-          <span
-            class="the-currency"
-          >
-            Kuwaiti dinar
-          </span>
-          <img
-            alt="right-arrow"
-            class="more-details"
-            src="arrow-4.png"
-          />
-        </li>
-        <li>
-          <span>
-            4.453097
-          </span>
-           
-          <span
-            class="the-currency"
-          >
-            Polish złoty
-          </span>
-          <img
-            alt="right-arrow"
-            class="more-details"
-            src="arrow-4.png"
-          />
-        </li>
-        <li>
-          <span>
-            38.533243
-          </span>
-           
-          <span
-            class="the-currency"
-          >
-            Thai baht
-          </span>
-          <img
-            alt="right-arrow"
-            class="more-details"
-            src="arrow-4.png"
-          />
-        </li>
-        <li>
-          <span>
-            3.966997
-          </span>
-           
-          <span
-            class="the-currency"
-          >
-            Israeli new shekel
-          </span>
-          <img
-            alt="right-arrow"
-            class="more-details"
-            src="arrow-4.png"
-          />
-        </li>
-        <li>
-          <span>
-            16446.471886
-          </span>
-           
-          <span
-            class="the-currency"
-          >
-            Indonesian rupiah
-          </span>
-          <img
-            alt="right-arrow"
-            class="more-details"
-            src="arrow-4.png"
-          />
-        </li>
-        <li>
-          <span>
-            23.730877
-          </span>
-           
-          <span
-            class="the-currency"
-          >
-            Czech koruna
           </span>
           <img
             alt="right-arrow"
