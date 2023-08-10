@@ -171,7 +171,7 @@ Create a new issue: If you I find an existing issue that matches your contributi
 Contributions, issues, and feature requests are welcome!
 
 
-Feel free to check the [issues page](https://github.com/techmoves/react-capston-project/issues)
+Feel free to check the [issues page](https://github.com/sam2if/REACT_CAPSTONE/issues)
     
 <p align="right">(<a href="">back to top</a>)</p>
 
