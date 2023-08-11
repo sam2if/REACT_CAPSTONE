@@ -69,7 +69,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 ## 🎥 Live Video <a name="live-video"></a>
 
-- [Live video Link](https://github.com/sam2if/REACT_CAPSTONE)
+- [Live video Link](https://www.loom.com/share/47c5ba3fd0804e1f98a25256e294c34a)
 
 <!-- LIVE Link -->
 ## 🚀 Live link <a name=""></a>
