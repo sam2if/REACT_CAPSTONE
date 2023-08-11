@@ -69,7 +69,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 ## 🎥 Live Video <a name="live-video"></a>
 
-- [Live video Link](https://www.loom.com/share/459edb0dcea34e6d92dd284e3b22c6c6?sid=f38439e3-87f9-4c98-ad3a-776de6fee35a)
+- [Live video Link](https://www.loom.com/share/7912c71ddb584c809a93b845a379a983?sid=bd8878cf-afd1-4557-b5a8-e4fe12501e17)
 
 <!-- LIVE Link -->
 ## 🚀 Live link <a name=""></a>
